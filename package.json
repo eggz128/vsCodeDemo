@@ -1,0 +1,22 @@
+{
+  "name": "cidemo",
+  "version": "1.0.0",
+  "description": "Sogeti WebDriverJS Training",
+  "main": "firstwebdriverscript.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "webdriver",
+    "demo",
+    "training"
+  ],
+  "author": "Steve Powell",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chromedriver": "^2.41.0",
+    "geckodriver": "^1.12.2",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
